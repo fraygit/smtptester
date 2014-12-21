@@ -18,7 +18,7 @@ namespace smtpmailer
 
             SmtpClient smtp = new SmtpClient();
             smtp.Host = "email-smtp.us-west-2.amazonaws.com";
-            smtp.Credentials = new NetworkCredential("AKIAIHZXXEETLVFJMLBQ", "Aj5giKnRAGdMQyLIUBgWoxjuG8vXTNy5a+KMBb7WAJpR");
+            smtp.Credentials = new NetworkCredential("yourUsername", "yourPassword");
             smtp.EnableSsl = true;
             smtp.Send(message);
         }
