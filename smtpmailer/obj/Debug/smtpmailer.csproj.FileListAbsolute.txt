@@ -1,0 +1,6 @@
+C:\fray\oprojects\testmail\smtpmailer\smtpmailer\bin\Debug\smtpmailer.exe.config
+C:\fray\oprojects\testmail\smtpmailer\smtpmailer\obj\Debug\smtpmailer.csprojResolveAssemblyReference.cache
+C:\fray\oprojects\testmail\smtpmailer\smtpmailer\bin\Debug\smtpmailer.exe
+C:\fray\oprojects\testmail\smtpmailer\smtpmailer\bin\Debug\smtpmailer.pdb
+C:\fray\oprojects\testmail\smtpmailer\smtpmailer\obj\Debug\smtpmailer.exe
+C:\fray\oprojects\testmail\smtpmailer\smtpmailer\obj\Debug\smtpmailer.pdb
